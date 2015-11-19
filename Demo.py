@@ -5,7 +5,9 @@ import DEMO1
 # Prototype for writing discussion group spreadsheets.
 # Make a new copy of this file for each discussion board
 
-# Enter values for XXX and NAME below
+# url is the url of the test Bulletein Board
+# htmlfile is the name of the html file that will be created
+# xlsfile is the name of the workbook being created
 url = 'http://docushare-test.tmt.org/docushare/dsweb/View/BulletinBoard-11'
 htmlfile = 'Demostration Purposes.html'
 xlsfile = 'Demonstartion Purposes.xlsx'
